@@ -6,7 +6,9 @@ simple BMI app calculator
 
 This project is an implementation of this design:
 
-[https://dribbble.com/shots/4585382-Simple-BMI-Calculator?utm_source=Clipboard_Shot&utm_campaign=rvaalt&utm_content=Simple%20BMI%20Calculator&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=rvaalt&utm_content=Simple%20BMI%20Calculator&utm_medium=Social_Share](https://dribbble.com/shots/4585382-Simple-BMI-Calculator?utm_source=Clipboard_Shot&utm_campaign=rvaalt&utm_content=Simple%20BMI%20Calculator&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=rvaalt&utm_content=Simple%20BMI%20Calculator&utm_medium=Social_Share)
+![image](https://github.com/user-attachments/assets/6f69229e-2e76-4ad2-9a3a-f01e16364a36)
+![image](https://github.com/user-attachments/assets/d1a23c4e-b4a2-4971-9685-38869ef12a63)
+
 
 
 A few resources to get you started if this is your first Flutter project:
